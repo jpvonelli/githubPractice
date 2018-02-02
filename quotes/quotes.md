@@ -10,3 +10,12 @@ Remember to keep it clean and inclusive.
 -- Winston Churchill
 
 > "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." -- Ralph Waldo Emerson
+
+> "You see, in this world there’s two kinds of people, my friend: Those with loaded guns, and those who dig. You dig.” -- "The man with no name"
+
+> "In real open source, you have the right to control your own destiny." -- Linus Torvalds
+
+> "Whenever smart people work, doors are unlocked" -- Steve Wozniak 
+ 
+
+
